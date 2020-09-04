@@ -4,9 +4,6 @@ CurrentModule = SossMLJExamples
 
 # SossMLJExamples
 
-```@index
-```
-
-```@autodocs
-Modules = [SossMLJExamples]
-```
+This repository contains additional examples for the 
+[SossMLJ](https://github.com/cscherrer/SossMLJ.jl)
+package.
