@@ -1,6 +1,6 @@
 name = "SossMLJExamples"
 uuid = "f99c56ef-d06c-41f8-bddc-77ad85e0956a"
-authors = ["Chad Scherrer"]
+authors = ["Chad Scherrer", "Thibaut Lienart", "Dilum Aluthge", "Anthony Blaom", "contributors"]
 version = "0.1.0-DEV"
 
 [compat]
