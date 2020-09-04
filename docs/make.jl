@@ -3,7 +3,7 @@ using Documenter
 
 makedocs(;
     modules=[SossMLJExamples],
-    authors="Chad Scherrer",
+    authors="Chad Scherrer, Thibaut Lienart, Dilum Aluthge, Anthony Blaom, and contributors",
     repo="https://github.com/cscherrer/SossMLJExamples.jl/blob/{commit}{path}#L{line}",
     sitename="SossMLJExamples.jl",
     format=Documenter.HTML(;
